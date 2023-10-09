@@ -34,8 +34,8 @@ Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
 ```
-Developed By : Kadin Samson L
-Reg. No : 212221230044
+Developed By : Yuvadarshini S
+Reg. No : 212221230126
 ```
 ### Import the necessary Libaries
 
@@ -137,6 +137,7 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![](1.png)
+![1](https://github.com/Yuvadarshini-Sathiyamoorthy/Bayesian-Network/assets/93482485/e270b52e-ac04-4948-88bc-268b43154f9c)
+
 ## Result:
 Thus a Bayesian Network is generated using Python
